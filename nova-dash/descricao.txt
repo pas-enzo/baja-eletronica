@@ -1,0 +1,1 @@
+Arquivos da nova dashboard em python utilizando PyQt6
